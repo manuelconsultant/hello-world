@@ -1,2 +1,2 @@
 # hello-world
-Just another Hello World. add more infomration here 
+Just another Hello World. add more information here 
